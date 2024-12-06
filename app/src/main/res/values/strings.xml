@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MY_COP_FINAL</string>
+    <string name="user_name">%1$s</string>
+    <string name="calories">Calories: %1$d</string>
+    <string name="proteins">Proteins: %1$dg</string>
+    <string name="carbs">Carbs: %1$dg</string>
+    <string name="fats">Fats: %1$dg</string>
+</resources>
